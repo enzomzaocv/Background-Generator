@@ -34,3 +34,6 @@ color1.addEventListener("input", setGradient);
 color2.addEventListener("input", setGradient);
 window.addEventListener("load", function(){setGradient();});
 
+function toHex(){
+	//function to convert rgb colors to hex color
+}
