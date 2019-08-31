@@ -37,3 +37,14 @@ window.addEventListener("load", function(){setGradient();});
 function toHex(){
 	//function to convert rgb colors to hex color
 }
+
+function toRgb(){
+
+}
+
+function toHexalfa(){
+
+}
+function toRgbAlfa(){
+
+}
